@@ -6,7 +6,7 @@ public class SharedData
 	private final int b;
 	
 	public SharedData(int[] array, int b) {
-		
+		int x;
 		this.array = array;
 		this.b = b;
 	}
