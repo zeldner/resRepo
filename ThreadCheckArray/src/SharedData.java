@@ -4,9 +4,10 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
+	private int x;
 	
 	public SharedData(int[] array, int b) {
-		int x;
+		// int x;
 		this.array = array;
 		this.b = b;
 	}
